@@ -9,7 +9,7 @@ title: RUN-CMD $ KARL SANDWICH
 description: > 
   Software developer, drone crasher, recovering maker,
   occasional gamer, faux tographer, avid indoorsman.
-baseurl: "/run-cmd" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tr0nk
 github_username:  RUN-CMD
